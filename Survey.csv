@@ -1,0 +1,201 @@
+Age,Gender,State/ Union Territory,City,Monthly Family Income,Product Interested in Buying Online,Employment Status,You preferably use  for shopping online,Have you heard about XPay ?
+22,Female,West Bengal,Tier 1,10-30K,Books,Self-Employeed,Amazon,No
+23,Male,West Bengal,Tier 1,50-70K,Mobile Accessories (including earphones and headphones),9-5 Job,Flipkart,No
+23,Male,West Bengal,Tier 2,10-30K,Mobile Accessories (including earphones and headphones),Student,Flipkart,No
+22,Male,West Bengal,Tier 3,10K and Below,Books,Student,Flipkart,No
+24,Male,West Bengal,Tier 1,30-50K,Mobile Accessories (including earphones and headphones),Student,Flipkart,Yes
+23,Female,West Bengal,Tier 1 ,70K and Above,Mobile Accessories (including earphones and headphones),9-5 Job,Amazon,No
+22,Female,West Bengal,Tier 1,70K and Above,"Fashion Items ( Perfumes, Cosmetics etc)",Student,Amazon,No
+22,Male,West Bengal,Tier 1,30-50K,Books,Student,Amazon,No
+23,Male,West Bengal,Tier 2,30-50K,Mobile Accessories (including earphones and headphones),Student,Flipkart,No
+23,Female,West Bengal,Tier 2,30-50K,Books,9-5 Job,Flipkart,No
+23,Male,Karnataka,Tier 1,10-30K,Books,Student,Amazon,Yes
+22,Male,West Bengal,Tier 1,10-30K,Books,Student,Amazon,No
+24,Male,Delhi,Tier 1,10-30K,Shoes,Student,Flipkart,No
+22,Male,West Bengal,Tier 1,10-30K,Shoes,Student,Amazon,No
+26,Female,West Bengal,Tier 1,10-30K,"Fashion Items ( Perfumes, Cosmetics etc)",9-5 Job,Amazon,No
+18,Male,Kerala,Tier 1,30-50K,Books,Student,Amazon,Yes
+32,Female,Jharkhand ,Tier 2 ,70K and Above,"Fashion Items ( Perfumes, Cosmetics etc)",Housewife,Amazon,No
+20,Male,West Bengal,Tier 2,10-30K,Books,Student,Flipkart,No
+20,Female,West Bengal,Tier 3,70K and Above,Books,Student,Amazon,No
+20,Male,West Bengal,Tier 3,10K and Below,Books,Business,Flipkart,No
+22,Female,Bihar,Tier 2,10-30K,Books,Student,Amazon,No
+20,Male,West Bengal,Tier 3,10-30K,Books,Student,Amazon,No
+25,Male,West Bengal,Tier 2,10-30K,"Electrical Appliances (Eg: AC, TV, Mixer Grinder etc)",9-5 Job,Flipkart,No
+20,Male,Andhra Pradesh,Tier 1,10-30K,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Student,Amazon,No
+20,Male,West Bengal,Tier 2,50-70K,Books,Student,Amazon,No
+23,Male,Jharkhand ,Tier 2,10-30K,Watches,Self-Employeed,Flipkart,No
+19,Male,West Bengal,Tier 2,10-30K,Books,Student,Flipkart,No
+23,Male,West Bengal,Tier 1,10-30K,Shoes,9-5 Job,Flipkart,No
+21,Male,West Bengal,Tier 3,10K and Below,"OTT Platform Subscriptions (Eg: Amazon Prime, Netflix etc)",Student,Flipkart,No
+21,Male,West Bengal,Tier 3,10-30K,Books,Student,Amazon,No
+19,Male,West bengal,Tier 3,50-70K,Books,Student,Amazon,No
+23,Female,West Bengal,Tier 1,30-50K,Shoes,Student,Nykaa,No
+20,Male,West Bengal,Tier 3,10K and Below,Books,Student,Amazon,No
+29,Male,West Bengal,Tier 1,50-70K,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",9-5 Job,Flipkart,No
+22,Female,West Bengal,Tier 3,10-30K,Mobile Accessories (including earphones and headphones),Self-Employeed,Flipkart,No
+20,Male,West Bengal,Tier 1,30-50K,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Student,Amazon,No
+23,Male,West Bengal,Tier 1,10K and Below,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Student,Amazon,No
+23,Male,West Bengal,Tier 2,10-30K,Watches,Student,Flipkart,No
+23,Male,West Bengal,Tier 2,10K and Below,Mobile Accessories (including earphones and headphones),Student,Amazon,Yes
+23,Male,West Bengal ,Tier 1 ,10-30K,"Fashion Items ( Perfumes, Cosmetics etc)",Graduate ,Amazon,No
+23,Male,West Bengal,Tier 1,10K and Below,Books,Student,Amazon,Yes
+23,Male,Tamil Nadu,Tier 2,10K and Below,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Self-Employeed,Amazon,No
+20,Female,West Bengal,Tier 2,30-50K,Books,Student,Flipkart,No
+26,Female,West Bengal ,Tier 1,10-30K,"Fashion Items ( Perfumes, Cosmetics etc)",9-5 Job,Auto. Com,No
+23,Male,West Bengal,Tier 2,50-70K,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Student,Flipkart,Yes
+25,Male,West Bengal,Tier 3,10K and Below,Books,Student,Amazon,No
+22,Male,West Bengal,Tier 1,10-30K,"Fashion Items ( Perfumes, Cosmetics etc)",Student,Amazon,No
+22,Male,Uttar Pradesh,Tier 2,50-70K,"OTT Platform Subscriptions (Eg: Amazon Prime, Netflix etc)",Student,Amazon,No
+21,Female,Delhi,Tier 1,30-50K,"OTT Platform Subscriptions (Eg: Amazon Prime, Netflix etc)",Student,Amazon,No
+21,Male,West Bengal,Tier 3,50-70K,"OTT Platform Subscriptions (Eg: Amazon Prime, Netflix etc)",Student,Amazon,No
+62,Male,West Bengal ,Tier 1,30-50K,Books,Self-Employeed,Amazon,Yes
+20,Female,West Bengal,Tier 2,10-30K,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Student,Flipkart,No
+20,Male,West Bengal,Tier 1,10K and Below,Mobile Accessories (including earphones and headphones),Student,Flipkart,No
+36,Male,West Bengal,Tier 1,30-50K,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Business,Amazon,No
+31,Male,West Bengal ,Tier 1,50-70K,Books,9-5 Job,Amazon,No
+54,Male,West Bengal,Tier 1,10-30K,Mobile Accessories (including earphones and headphones),Self-Employeed,Flipkart,No
+39,Male,West Bengal,Tier 1,30-50K,Books,Business,Amazon,No
+56,Male,West Bengal,Tier 1,10-30K,Mobile Accessories (including earphones and headphones),9-5 Job,Amazon,No
+56,Male,West bengal,Tier 1 ,10-30K,Shoes,Self-Employeed,Amazon,No
+49,Male,West Bengal,Tier 1,70K and Above,"OTT Platform Subscriptions (Eg: Amazon Prime, Netflix etc)",Self-Employeed,Amazon,No
+18,Male,West Bengal,Tier 1,70K and Above,Books,Student,Amazon,No
+18,Male,West Bengal,Tier 1,70K and Above,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Student,Amazon,No
+52,Male,West Bengal,Tier 1,70K and Above,Books,Business,Amazon,No
+35,Female,Odisha,Tier 2,30-50K,"Electrical Appliances (Eg: AC, TV, Mixer Grinder etc)",9-5 Job,Myntra,No
+18,Male,West Bengal,Tier 2,30-50K,Mobile Accessories (including earphones and headphones),Student,Flipkart,No
+66,Male,West Bengal,Tier 1,70K and Above,"OTT Platform Subscriptions (Eg: Amazon Prime, Netflix etc)",Retired,Amazon,No
+16,Male,West Bengal,Tier 3,10K and Below,Mobile Accessories (including earphones and headphones),Student,Amazon,No
+20,Male,West Bengal,Tier 3,10-30K,Books,Student,Flipkart,No
+23,Male,West Bengal,Tier 1,50-70K,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Student,Amazon,No
+33,Male,Odisha,Tier 1,30-50K,Books,Business,Amazon,No
+56,Male,West Bengal ,Tier 1 ,30-50K,Bags,Business,Flipkart,No
+23,Male,West Bengal ,Tier 2,10K and Below,"OTT Platform Subscriptions (Eg: Amazon Prime, Netflix etc)",9-5 Job,Amazon,No
+24,Male,West bengal,Tier 3,10K and Below,Mobile Accessories (including earphones and headphones),Student,Amazon,No
+49,Female,West Bengal,Tier 1,10K and Below,Mobile Accessories (including earphones and headphones),Business,Amazon,No
+23,Male,West Bengal,Tier 1,30-50K,Watches,Student,Flipkart,No
+47,Male,West Bengal,Tier 1 ,70K and Above,"Fashion Items ( Perfumes, Cosmetics etc)",9-5 Job,Amazon,No
+22,Female,Odisha,Tier 1,30-50K,"Home Accessories (Eg: Chair, Tables)",9-5 Job,Amazon,No
+30,Female,Odisha,Tier 1,50-70K,"Home Accessories (Eg: Chair, Tables)",9-5 Job,Amazon,No
+19,Male,West bengal,Tier 1,10-30K,Books,Student,Flipkart,No
+56,Female,West Bengal,Tier 1 ,10-30K,"Fashion Items ( Perfumes, Cosmetics etc)",Self-Employeed,Amazon,No
+26,Female,West Bengal,Tier 1,10-30K,Mobile Accessories (including earphones and headphones),9-5 Job,Flipkart,No
+26,Female,West Bengal,Tier 1,10-30K,Mobile Accessories (including earphones and headphones),9-5 Job,Flipkart,No
+24,Male,West Bengal,Tier 1,10K and Below,"Fashion Items ( Perfumes, Cosmetics etc)",9-5 Job,Flipkart,No
+23,Male,West Bengal,Tier 1,30-50K,Books,Student,Flipkart,No
+45,Male,West Bengal,Tier 3,10K and Below,"Fashion Items ( Perfumes, Cosmetics etc)",Self-Employeed,Flipkart,No
+23,Male,West Bengal,Tier 1,70K and Above,Mobile Accessories (including earphones and headphones),Student,Flipkart,No
+60,Male,West Bengal,Tier 1,10-30K,Mobile Accessories (including earphones and headphones),9-5 Job,Amazon,No
+24,Male,West Bengal,Tier 1,50-70K,Mobile Accessories (including earphones and headphones),Student,Flipkart,No
+32,Female,Uttar Pradesh,Tier 2,50-70K,"Fashion Items ( Perfumes, Cosmetics etc)",Self-Employeed,Amazon,No
+30,Female,Jharkhand,Tier 2 ,70K and Above,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Self-Employeed,Amazon,No
+23,Male,Delhi,Tier 1,10-30K,"Electrical Appliances (Eg: AC, TV, Mixer Grinder etc)",9-5 Job,Amazon,Yes
+24,Male,West Bengal,Tier 3,30-50K,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Student,Amazon,Yes
+41,Female,West Bengal,Tier 1,30-50K,Books,Business,Jio Mart ,No
+29,Female,Maharashtra,Tier 1,10K and Below,Bags,Self-Employeed,Myntra,No
+48,Male,Gujarat,Tier 2,10-30K,"Home Accessories (Eg: Chair, Tables)",Business,Flipkart,No
+21,Male,West Bengal ,Tier 3,10-30K,Books,Student,Amazon,No
+25,Male,West Bengal,Tier 1 ,30-50K,Books,Self-Employeed,Amazon,No
+68,Male,West Bengal,Tier 1,10K and Below,Books,Retired,Amazon,No
+23,Male,West Bengal,Tier 1,50-70K,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Student,Amazon,No
+54,Male,West Bengal,Tier 2,50-70K,"Electrical Appliances (Eg: AC, TV, Mixer Grinder etc)",9-5 Job,Flipkart,No
+33,Female,West Bengal ,Tier 1 ,10-30K,"Home Accessories (Eg: Chair, Tables)",House wife,Groccer,No
+56,Male,West Bengal,Tier 1,10K and Below,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",9-5 Job,Amazon,No
+33,Female,West Bengal ,Tier 1,30-50K,"OTT Platform Subscriptions (Eg: Amazon Prime, Netflix etc)",Business,Amazon,No
+52,Male,Rajasthan,Tier 1,70K and Above,Mobile Accessories (including earphones and headphones),9-5 Job,Amazon,No
+37,Female,West Bengal,Tier 1,10-30K,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Housewife,Flipkart,No
+50,Male,West Bengal,Tier 1,10K and Below,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Self-Employeed,Flipkart,No
+30,Female,Odisha,Tier 1,30-50K,"OTT Platform Subscriptions (Eg: Amazon Prime, Netflix etc)",9-5 Job,Amazon,No
+51,Male,West-Bengal,Tier 3,10K and Below,Mobile Accessories (including earphones and headphones),Self-Employeed,Flipkart,Yes
+38,Female,West Bengal,Tier 1,10K and Below,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Self-Employeed,Amazon,No
+26,Female,West Bengal,Tier 2,30-50K,"Fashion Items ( Perfumes, Cosmetics etc)",Student,Flipkart,No
+33,Female,Uttar Pradesh,Tier 2,70K and Above,"OTT Platform Subscriptions (Eg: Amazon Prime, Netflix etc)",9-5 Job,Amazon,No
+41,Female,West Bengal,Tier 1,10K and Below,Bags,Self-Employeed,Flipkart,No
+28,Female,West Bengal,Tier 1,30-50K,Books,9-5 Job,Amazon,No
+53,Male,West Bengal ,Tier 1 ,70K and Above,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Self-Employeed,Amazon,No
+45,Female,West Bengal ,Tier 1 ,10K and Below,Bags,Self-Employeed,Amazon,No
+48,Male,Madhya Pradesh,Tier 1,70K and Above,Shoes,9-5 Job,Amazon,No
+36,Female,West Bengal,Tier 1,10K and Below,Mobile Accessories (including earphones and headphones),Self-Employeed,Flipkart,No
+41,Female,Jammu and Kashmir,Tier 2,70K and Above,"OTT Platform Subscriptions (Eg: Amazon Prime, Netflix etc)",9-5 Job,Amazon,Yes
+55,Male,West Bengal,Tier 1,10K and Below,Books,Self-Employeed,Flipkart,No
+63,Male,West bengal,Tier 3,50-70K,Mobile Accessories (including earphones and headphones),Business,Amazon,Yes
+61,Male,Madhya Pradesh,Tier 1,10-30K,Shoes,Self-Employeed,Amazon,No
+20,Female,West Bengal,Tier 1,70K and Above,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Student,Flipkart,No
+57,Male,West Bengal ,Tier 1 ,30-50K,Books,Self-Employeed,Do not shop online ,No
+45,Female,Kerala,Tier 2,50-70K,"Electrical Appliances (Eg: AC, TV, Mixer Grinder etc)",9-5 Job,Amazon,No
+38,Female,Gujarat,Tier 1,70K and Above,"Fashion Items ( Perfumes, Cosmetics etc)",Business,Myntra,No
+18,Female,Karnataka,Tier 1,70K and Above,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Student,Amazon,No
+61,Male,West Bengal ,Tier 1 ,30-50K,Mobile Accessories (including earphones and headphones),9-5 Job,Amazon,Yes
+42,Female,Haryana,Tier 2,50-70K,Mobile Accessories (including earphones and headphones),Housewife,Flipkart,No
+48,Female,West Bengal,Tier 3,10K and Below,Bags,Housewife,Flipkart,No
+24,Female,West Bengal,Tier 3,10K and Below,Mobile Accessories (including earphones and headphones),Student,Flipkart,No
+33,Female,West bengal,Tier 1,30-50K,Bags,9-5 Job,Amazon,No
+55,Male,Auckland,Tier 1,70K and Above,Books,9-5 Job,Amazon,No
+67,Male,Punjab,Tier 1,70K and Above,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Retired ,Amazon,No
+34,Female,Odisha ,Tier 2,50-70K,"Fashion Items ( Perfumes, Cosmetics etc)",9-5 Job,Flipkart,No
+23,Male,West Bengal,Tier 1,50-70K,Mobile Accessories (including earphones and headphones),Student,Flipkart,No
+22,Male,West Bengal,Tier 3,10-30K,Mobile Accessories (including earphones and headphones),Student,Flipkart,Yes
+22,Male,West Bengal ,Tier 1,10K and Below,"OTT Platform Subscriptions (Eg: Amazon Prime, Netflix etc)",9-5 Job,Flipkart,Yes
+22,Male,Chandigarh,Tier 2,70K and Above,Mobile Accessories (including earphones and headphones),9-5 Job,Amazon,No
+20,Female,West Bengal,Tier 3,50-70K,Books,Student,Flipkart,Yes
+73,Male,Westbengal,Tier 1,10-30K,"Electrical Appliances (Eg: AC, TV, Mixer Grinder etc)",Self-Employeed,Flipkart,No
+22,Male,West Bengal,Tier 1,50-70K,Books,Student,Amazon,No
+53,Female,West Bengal ,Tier 1 ,30-50K,"Home Accessories (Eg: Chair, Tables)",Housewife,Amazon,No
+35,Male,West Bengal ,Tier 1 ,30-50K,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",9-5 Job,Amazon,No
+23,Male,West Bengal,Tier 1,30-50K,"Electrical Appliances (Eg: AC, TV, Mixer Grinder etc)",Student,Amazon,No
+48,Female,West Bengal ,Tier 1 ,70K and Above,Books,Self-Employeed,Amazon,No
+20,Male,WEST BENGAL,Tier 1,70K and Above,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Student,Amazon,No
+24,Male,West Bengal,Tier 2,10K and Below,Mobile Accessories (including earphones and headphones),Student,Amazon,No
+50,Male,West Bengal,Tier 1,10K and Below,Books,9-5 Job,Flipkart,No
+25,Male,West Bengal,Tier 1,10K and Below,Mobile Accessories (including earphones and headphones),Self-Employeed,Amazon,No
+48,Female,West Bengal,Tier 1,10K and Below,"Home Accessories (Eg: Chair, Tables)",Self-Employeed,Amazon,No
+24,Female,Delhi ,Tier 1,30-50K,"Fashion Items ( Perfumes, Cosmetics etc)",Business,Flipkart,No
+38,Male,Odisha,Tier 2,30-50K,Books,9-5 Job,Amazon,No
+35,Female,Uttar Pradesh,Tier 2,30-50K,"Fashion Items ( Perfumes, Cosmetics etc)",9-5 Job,Amazon,No
+22,Male,West Bengal,Tier 1,10K and Below,Books,Student,Flipkart,No
+58,Male,West Bengal,Tier 1,70K and Above,"Electrical Appliances (Eg: AC, TV, Mixer Grinder etc)",Self-Employeed,TataCLIQ,No
+55,Female,Tamil Nadu,Tier 2,50-70K,Bags,Housewife,Flipkart,No
+48,Male,West Bengal,Tier 1,70K and Above,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",9-5 Job,Amazon,No
+22,Male,West Bengal,Tier 1,10-30K,Books,Student,Flipkart,Yes
+23,Female,West Bengal,Tier 3,10K and Below,"Fashion Items ( Perfumes, Cosmetics etc)",Student,Flipkart,No
+37,Male,West Bengal,Tier 1,50-70K,"OTT Platform Subscriptions (Eg: Amazon Prime, Netflix etc)",Self-Employeed,Amazon,No
+60,Male,West Bengal ,Tier 1 ,10K and Below,"Electrical Appliances (Eg: AC, TV, Mixer Grinder etc)",Self-Employeed,Amazon,No
+54,Male,West Bengal,Tier 1,50-70K,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Business,Amazon,No
+35,Male,West Bengal ,Tier 1 ,70K and Above,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Business,Flipkart,No
+42,Male,West Bengal,Tier 1,70K and Above,Shoes,Business,Amazon,No
+39,Male,West Bengal,Tier 1,10-30K,Shoes,9-5 Job,Ajio,No
+44,Female,West Bengal,Tier 1,30-50K,Books,9-5 Job,Amazon,No
+23,Female,Maharashtra,Tier 2,70K and Above,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Business,Amazon,No
+65,Female,Telengana,Tier 2,50-70K,Bags,Retired,Flipkart,No
+20,Female,West Bengal,Tier 2,30-50K,Books,Student,Flipkart,No
+26,Female,West Bengal ,Tier 1,10-30K,"Fashion Items ( Perfumes, Cosmetics etc)",9-5 Job,Auto. Com,No
+23,Male,West Bengal,Tier 2,50-70K,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Student,Flipkart,Yes
+25,Male,West Bengal,Tier 3,10K and Below,Books,Student,Amazon,No
+22,Male,West Bengal,Tier 1,10-30K,"Fashion Items ( Perfumes, Cosmetics etc)",Student,Amazon,No
+22,Male,Uttar Pradesh,Tier 2,50-70K,"OTT Platform Subscriptions (Eg: Amazon Prime, Netflix etc)",Student,Amazon,No
+21,Female,Delhi,Tier 1,30-50K,"OTT Platform Subscriptions (Eg: Amazon Prime, Netflix etc)",Student,Amazon,No
+21,Male,West Bengal,Tier 3,50-70K,Online Bill Payments,Student,Amazon,No
+62,Male,West Bengal ,Tier 1,30-50K,Books,Self-Employeed,Amazon,Yes
+20,Female,West Bengal,Tier 2,10-30K,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Student,Flipkart,No
+20,Male,West Bengal,Tier 1,10K and Below,Mobile Accessories (including earphones and headphones),Student,Flipkart,No
+36,Male,West Bengal,Tier 1,30-50K,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Business,Amazon,No
+31,Female,West Bengal ,Tier 1,50-70K,Books,9-5 Job,Amazon,No
+54,Male,West Bengal,Tier 1,10-30K,Mobile Accessories (including earphones and headphones),Self-Employeed,Flipkart,No
+39,Male,West Bengal,Tier 1,30-50K,Books,Business,Amazon,No
+56,Male,West Bengal,Tier 1,10-30K,Mobile Accessories (including earphones and headphones),9-5 Job,Amazon,No
+56,Female,West bengal,Tier 1 ,10-30K,Shoes,Self-Employeed,Amazon,No
+49,Male,West Bengal,Tier 1,70K and Above,"OTT Platform Subscriptions (Eg: Amazon Prime, Netflix etc)",Self-Employeed,Amazon,No
+18,Female,West Bengal,Tier 1,70K and Above,Books,Student,Amazon,No
+18,Male,West Bengal,Tier 1,70K and Above,"Gadgets (Eg: Laptops, Mobiles, Desktop peripherals etc)",Student,Amazon,No
+52,Female,West Bengal,Tier 1,70K and Above,Books,Business,Amazon,No
+19,Male,West Bengal,Tier 1,10-30K,Books,Student,Flipkart,No
+56,Female,West Bengal,Tier 1 ,10-30K,"Fashion Items ( Perfumes, Cosmetics etc)",Self-Employeed,Amazon,No
+26,Female,West Bengal,Tier 1,10-30K,Online Bill Payments,9-5 Job,Amazon,No
+26,Female,West Bengal,Tier 1,10-30K,Mobile Accessories (including earphones and headphones),9-5 Job,Flipkart,No
+24,Female,West Bengal,Tier 1,10K and Below,"Fashion Items ( Perfumes, Cosmetics etc)",9-5 Job,Flipkart,No
+23,Male,West Bengal,Tier 1,30-50K,Books,Student,Flipkart,No
+45,Female,West Bengal,Tier 3,10K and Below,"Fashion Items ( Perfumes, Cosmetics etc)",Self-Employeed,Flipkart,No
+23,Male,West Bengal,Tier 1,70K and Above,Mobile Accessories (including earphones and headphones),Student,Flipkart,No
+60,Female,West Bengal,Tier 1,10-30K,Mobile Accessories (including earphones and headphones),9-5 Job,Amazon,No
+24,Male,West Bengal,Tier 1,50-70K,Mobile Accessories (including earphones and headphones),Student,Flipkart,No
+32,Female,Uttar Pradesh,Tier 2,50-70K,Online Bill Payments,Self-Employeed,Amazon,No
